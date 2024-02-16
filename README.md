@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Yuri Oliveira</h1>
-<h3 align="center">Um apaixonado por tecnologia, atualmente estudante de Analise e Desenvolvimento de Sistemas.</h3>
+<h3 align="center">Sou uma pessoa formada em psicologia apaixonada por tecnologia, atualmente estudante de Analise e Desenvolvimento de Sistemas.</h3>
 
 - 🌱 Atualmente estudando **JavaScript, HTML/CSS, Java e Spring**
 
