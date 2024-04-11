@@ -27,3 +27,5 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BARBATV&repo=DECODIFICADOR&theme=dracula&show_icons=true&icon)](https://github.com/barbatv/decodificador)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=BARBATV&repo=SISTEMABANCO&theme=dracula&show_icons=true&icon)](https://github.com/barbatv/sistemaBanco)
+
